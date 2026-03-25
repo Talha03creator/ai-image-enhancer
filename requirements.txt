@@ -2,7 +2,7 @@ fastapi==0.115.0
 uvicorn==0.41.0
 torch==2.2.2
 torchvision==0.17.2
-numpy==2.2.0
+numpy==1.26.4
 opencv-python==4.10.0.84
 Pillow==11.0.0
 requests==2.32.3
